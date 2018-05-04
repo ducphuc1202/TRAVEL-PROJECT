@@ -6,7 +6,7 @@
     font-size: 14px;
 }
 .banner {
-    background-image: url('/image/background.png');
+    background-image: url('https://ducphuc1202.github.io/TRAVEL-PROJECT/image/background.png');
     width: 1600px;
     height: 1070px;
     color:#ffffff;
@@ -77,16 +77,16 @@
     border: none;
 }
 #search-tour {
-    background-image: url(/image/icon1.png);
+    background-image: url('https://ducphuc1202.github.io/TRAVEL-PROJECT/image/icon1.png');
 }
 #destination {
-    background-image: url(/image/icon2.png);
+    background-image: url('https://ducphuc1202.github.io/TRAVEL-PROJECT/image/icon2.png');
 }
 #tour-type {
-    background-image: url(/image/icon3.png);
+    background-image: url('https://ducphuc1202.github.io/TRAVEL-PROJECT/image/icon3.png');
 }
 #month {
-    background-image: url(/image/icon4.png);
+    background-image: url('https://ducphuc1202.github.io/TRAVEL-PROJECT/image/icon4.png');
 }
 .bottom {
     clear: both;
@@ -111,7 +111,7 @@
     z-index: 2;
 }
 .tour-area {
-    background-image:url('/image/background2.png');
+    background-image:url('https://ducphuc1202.github.io/TRAVEL-PROJECT/image/background2.png');
     height: 570px;
     text-align: center;
     opacity: 0.8;
@@ -138,16 +138,16 @@
     margin-top: 100px;
 }
 .type-1 {
-    background-image: url(/image/image1.png);
+    background-image: url('https://ducphuc1202.github.io/TRAVEL-PROJECT/image/image1.png');
 }
 .type-2 {
-    background-image: url(/image/image2.png);
+    background-image: url('https://ducphuc1202.github.io/TRAVEL-PROJECT/image/image2.png');
 }
 .type-3 {
-    background-image: url(/image/image3.png);
+    background-image: url('https://ducphuc1202.github.io/TRAVEL-PROJECT/image/image3.png');
 }
 .type-4 {
-    background-image: url(/image/image4.png);
+    background-image: url('https://ducphuc1202.github.io/TRAVEL-PROJECT/image/image4.png');
 }
 .new-event {
     height:750px;
@@ -200,5 +200,5 @@
 }
 .bottam-banner {
     height: 695px;
-    background-image: url('/image/background3.png');
+    background-image: url('https://ducphuc1202.github.io/TRAVEL-PROJECT/image/background3.png');
 }
