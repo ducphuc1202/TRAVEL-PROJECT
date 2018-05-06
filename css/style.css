@@ -15,12 +15,13 @@
     font-family: BigNoodleTitling;
 }
 .text {
-    padding-left: 190px;
+    padding-left: 120px;
     padding-top: 415px;
     width: 612px;
     font-size: 65px;
     text-align: center;
     line-height: 0.75;
+    display: inline-block;
     float: left;
 }
 #des {
@@ -101,7 +102,7 @@
 .text-content {
     width: 612px;
     font-size: 25px;
-    padding-left: 210px;
+    padding-left: 80px;
     padding-top: 75px;
 }
 .top {
@@ -158,12 +159,14 @@
     font-size: 40px;
     padding-top: 40px;
     margin-bottom: 20px;
+    text-align: center;
 }
 .new-event-des {
     width: 955px;
     text-align:center;
     font-size: 23px;
     padding-left: 330px;
+    display:inline-block;
 }
 .new-event-main {
     margin-top: 30px;
@@ -176,9 +179,11 @@
     display: inline;
     float: left;
     margin-right: 50px;
+    text-align: center;
 }
 .main-infor {
     text-align: left;
+    display: inline-block;
 }
 .main-infor h2 {
     color: #47a0ff;
@@ -233,7 +238,7 @@
     font-size: 17px;
 }
 .address {
-    padding-left: 210px;
+    padding-left: 80px;
     width: 295px;
     float:left;
     margin-right: 75px;
